@@ -22,6 +22,6 @@ I learnt how to overcome the hardships and obstacles on the way and strive by th
 
 Whatsmore is that I came to know about how to use Google efficiently for software development and the concept of 'mvp'. Fossoverflow provided me with awesome mentors who were very helpful and congenial.
 
-()[https://tenor.com/89XI.gif]
+[](https://tenor.com/89XI.gif)
 
 ## 
