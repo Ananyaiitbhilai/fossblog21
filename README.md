@@ -21,6 +21,7 @@ Fossoverflow helped me learn more closely about Time Management skill. One of th
 I learnt how to overcome the hardships and obstacles on the way and strive by them. When I was not able to integrate both frontend and backend after many tries, I was frustated and on the verge to give up. But then I started to make the frontend from scratch and eventually connected the backend and frontend. That day I came to know about true content in one's effort and work.<br>
 
 Whatsmore is that I came to know about how to use Google efficiently for software development and the concept of 'mvp'. Fossoverflow provided me with awesome mentors who were very helpful and congenial.
-<div class="tenor-gif-embed" data-postid="14537236" data-share-method="host" data-aspect-ratio="2.22222" data-width="100%"><a href="https://tenor.com/view/awesome-minions-excited-gah-i-cant-even-gif-14537236">Awesome Minions GIF</a>from <a href="https://tenor.com/search/awesome-gifs">Awesome GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+()[https://tenor.com/89XI.gif]
 
 ## 
