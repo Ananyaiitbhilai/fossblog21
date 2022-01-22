@@ -4,7 +4,7 @@ Author: Ananya
 date: '2022-01-21'
 ---
 
-## Idea behind the project
+## Idea behind the project 😄
 Knowledge sharing platform application aims to get the students acquainted with the courses, professors, evaluation schemes. The said things can be achieved via gathering course feedback, professor feedback, and previous year grading schemes. This can be done by making a portal (just like a blog site) where people can share their honest reviews without being scrutinized much. Getting reviews from mass makes it easy for one to choose the particular course and get the right information about that course. Moreover, students can also get relevant course resources from the students who already opted for the course. This platform can also act as a general guidance portal.
 
 ## My motivation for the project
@@ -13,7 +13,7 @@ I chose this project because of the following reason, I myself sometimes contact
 
 ## My Work
 
-Discussing the work I did during the period, I mainly worked on designing the whole backend of the project and I also helped in designing and adding some frontend components. <br>
+Discussing the work I did during the period, I mainly worked on designing the whole backend of the project and I also helped in designing and adding some frontend components. I used django restframework, and designed the models, used axios to communicate with backend and coded APIs for "GET" and "POST" requests. <br>
 
 ## How Fossoverflow helped in my overall development 
 Fossoverflow helped me learn more closely about Time Management skill. One of the major challenge in fossoverflow was to divide the time between academics and the project. Since my academics and project were going parallely I learnt to handle the pressure and time. In the span of this one month, I learnt about the team spirit,coordination and communicated with mentors, discuss about the bugs and errors.<br>
